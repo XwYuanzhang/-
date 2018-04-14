@@ -11,7 +11,9 @@
 
 #### :x: 请勿将本仓库内的文件用于商业用途
 #### :o: 欢迎您参与编辑
-#### :page_facing_up: 已完成文件格式由 docx 向 md 的过渡
+<br>
+
+#### :triangular_flag_on_post:[若您因不了解Markdown文件的语法规则不能参与公共编辑，可点击此处](https://github.com/younghz/Markdown)
 
 </br>
 
