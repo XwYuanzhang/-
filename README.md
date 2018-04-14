@@ -40,7 +40,7 @@
 
 > [选修一](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E9%80%89%E4%BF%AE%E4%B8%80)
 
-> [生物理论运用](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%94%9F%E7%89%A9%E3%80%90%E4%BE%BF%E4%BA%8E%E5%8A%A0%E6%B7%B1%E7%90%86%E8%A7%A3%E3%80%91)
+> [生物理论运用](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E7%94%9F%E7%89%A9%E7%90%86%E8%AE%BA%E8%BF%90%E7%94%A8%E3%80%90%E4%BE%BF%E4%BA%8E%E5%8A%A0%E6%B7%B1%E7%90%86%E8%A7%A3%E3%80%91)
 
 资源扩展中…
 
