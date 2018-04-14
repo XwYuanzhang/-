@@ -45,6 +45,10 @@
 
 ##### 资源扩展中…
 
+> [有道云笔记格式](http://note.youdao.com/noteshare?id=81ec4cd0813ea4baba5201ab947d09ec)
+
+##### 有道云笔记上的文件相比颜色更加丰富
+
 ## 历史 :clock4:
 
 ##### 未启动
