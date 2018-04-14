@@ -11,6 +11,7 @@
 
 #### :x: 请勿将本仓库内的文件用于商业用途
 #### :o: 欢迎您参与编辑
+#### :page_facing_up: 已完成文件格式由 docx 向 md 的过渡
 
 </br>
 
@@ -36,13 +37,17 @@
 
 ## 生物 :microscope:
 
-> [必修一](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9)
+> [必修一：完成度38%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E5%BF%85%E4%BF%AE%E4%B8%80)
 
-> [选修一](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E9%80%89%E4%BF%AE%E4%B8%80)
+> [选修一：完成度34%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E9%80%89%E4%BF%AE%E4%B8%80)
 
 > [生物理论运用](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E7%94%9F%E7%89%A9%E7%90%86%E8%AE%BA%E8%BF%90%E7%94%A8%E3%80%90%E4%BE%BF%E4%BA%8E%E5%8A%A0%E6%B7%B1%E7%90%86%E8%A7%A3%E3%80%91)
 
 ##### 资源扩展中…
+
+> [有道云笔记格式](http://note.youdao.com/noteshare?id=81ec4cd0813ea4baba5201ab947d09ec)
+
+##### 有道云笔记上的文件相比颜色更加丰富
 
 ## 历史 :clock4:
 
