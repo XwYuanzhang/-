@@ -13,7 +13,7 @@
 #### :o: 欢迎您参与编辑
 <br>
 
-#### :triangular_flag_on_post:[若您因不了解Markdown文件的语法规则不能参与公共编辑，可点击此处](https://github.com/younghz/Markdown)
+#### :triangular_flag_on_post:[若您因不了解Markdown的语法规则而不能参与公共编辑，可点击此处](https://github.com/younghz/Markdown)
 
 </br>
 
