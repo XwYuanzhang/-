@@ -15,6 +15,7 @@
 <br>
 
 #### :triangular_flag_on_post:[若您因不了解Markdown的语法规则而不能参与公共编辑，可点击此处](https://github.com/younghz/Markdown)
+#### :mag_right:[怎样使用Github - 知乎](https://www.zhihu.com/question/20070065)
 
 </br>
 
