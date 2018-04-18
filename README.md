@@ -16,6 +16,7 @@
 
 #### :triangular_flag_on_post:[若您因不了解Markdown的语法规则而不能参与公共编辑，可点击此处](https://github.com/younghz/Markdown)
 #### :mag_right:[怎样使用Github - 知乎](https://www.zhihu.com/question/20070065)
+#### :pencil2:[评论&意见区](https://github.com/XwYuanzhang/Cloud-Note/issues)
 
 </br>
 
@@ -45,9 +46,7 @@
 
 ## 生物 :microscope:
 
-> [必修一：A版已完成](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E5%BF%85%E4%BF%AE%E4%B8%80)
-
-> #### 必修二 (起稿中)
+> [必修一：完成度100%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E5%BF%85%E4%BF%AE%E4%B8%80)
 
 > [选修一：完成度34%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E9%80%89%E4%BF%AE%E4%B8%80)
 
