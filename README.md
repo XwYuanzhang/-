@@ -6,7 +6,7 @@
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :---------: | :---------:|
 | I | II | III | IV | V | VI | VII | VIII | IX |
 |语文 [:clipboard:](#语文-clipboard) |数学 [:bar_chart:](#数学-bar_chart)| 英语 [:abcd:](英语-abcd)| 物理 [:dizzy:](#物理-dizzy) |化学 [:pill:](#化学-pill)| 生物 [:microscope:](#生物-microscope)| 历史 [:clock4:](#历史-clock4) |政治 [:european_castle:](#政治-european_castle)| 地理 [:earth_asia:](#地理-earth_asia)|
-| 0 | 0  | 0  | 0  | 0  | 23%  | 0  | 0  | 0  |
+| 0 | 0  | 0  | 0  | 0  | 30%  | 0  | 0  | 0  |
 
 </br>
 
@@ -45,7 +45,9 @@
 
 ## 生物 :microscope:
 
-> [必修一：完成度75%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E5%BF%85%E4%BF%AE%E4%B8%80)
+> [必修一：A版已完成](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E5%BF%85%E4%BF%AE%E4%B8%80)
+
+> #### 必修二 (起稿中)
 
 > [选修一：完成度34%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E9%80%89%E4%BF%AE%E4%B8%80)
 
