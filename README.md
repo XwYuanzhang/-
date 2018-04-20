@@ -40,7 +40,7 @@
 
 > [必修一：完成度100%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E5%BF%85%E4%BF%AE%E4%B8%80)
 
-> [必修三:起稿中](http://note.youdao.com/noteshare?id=81ec4cd0813ea4baba5201ab947d09ec)
+> [必修三：起稿中](http://note.youdao.com/noteshare?id=81ec4cd0813ea4baba5201ab947d09ec)
 
 > [选修一：完成度34%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E9%80%89%E4%BF%AE%E4%B8%80)
 
