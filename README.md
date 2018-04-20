@@ -10,10 +10,6 @@
 
 </br>
 
-#### :x: 请勿将本仓库内的文件用于商业用途
-#### :o: 欢迎您参与编辑
-<br>
-
 #### :triangular_flag_on_post:[若您因不了解Markdown的语法规则而不能参与公共编辑，可点击此处](https://github.com/younghz/Markdown)
 #### :mag_right:[怎样使用Github - 知乎](https://www.zhihu.com/question/20070065)
 #### :pencil2:[评论&意见区](https://github.com/XwYuanzhang/Cloud-Note/issues)
@@ -40,13 +36,11 @@
 
 ###### 起稿中
 
-> [有道云笔记格式](http://note.youdao.com/noteshare?id=7dfb0970e252baa2aee5cc7b2bce258d)
-
-##### 预计4.20日前完成第一批资料的上传
-
 ## 生物 :microscope:
 
 > [必修一：完成度100%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E5%BF%85%E4%BF%AE%E4%B8%80)
+
+> [必修三:起稿中](http://note.youdao.com/noteshare?id=81ec4cd0813ea4baba5201ab947d09ec)
 
 > [选修一：完成度34%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E9%80%89%E4%BF%AE%E4%B8%80)
 
