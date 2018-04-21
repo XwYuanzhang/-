@@ -50,7 +50,7 @@
 
 **资源扩展中…**
 
-> [**有道云笔记**格式](http://note.youdao.com/noteshare?id=81ec4cd0813ea4baba5201ab947d09ec)
+> [**有道云笔记**](http://note.youdao.com/noteshare?id=81ec4cd0813ea4baba5201ab947d09ec)
 
 **推荐收藏时使用有道云笔记格式**
 
