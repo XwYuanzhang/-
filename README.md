@@ -2,7 +2,7 @@
 #### :books: #高中笔记整理# 欢迎编辑</br></br></br>
 
 <!-- ![](https://img.shields.io/badge/update-today-blue.svg) ![](https://img.shields.io/badge/gitbook-making-lightgrey.svg)</br> -->
-| 未启用 | 未启用 | 未启用 | 预备中 | 起稿中 | 搭建中| 未启用 | 未启用 | 未启用 |
+| 未启用 | 预备中 | 预备中 | 预备中 | 起稿中 | 搭建中| 未启用 | 未启用 | 预备中 |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :---------: | :---------:|
 | I | II | III | IV | V | VI | VII | VIII | IX |
 |语文 [:clipboard:](#语文-clipboard) |数学 [:bar_chart:](#数学-bar_chart)| 英语 [:abcd:](英语-abcd)| 物理 [:dizzy:](#物理-dizzy) |化学 [:pill:](#化学-pill)| 生物 [:microscope:](#生物-microscope)| 历史 [:clock4:](#历史-clock4) |政治 [:european_castle:](#政治-european_castle)| 地理 [:earth_asia:](#地理-earth_asia)|
@@ -24,7 +24,7 @@
 
 ## 数学 :bar_chart:
 
-**未启动**
+**预备中**
 
 ## 英语 :abcd:
 
@@ -50,7 +50,7 @@
 
 **资源扩展中…**
 
-> [**有道云笔记**格式](http://note.youdao.com/noteshare?id=81ec4cd0813ea4baba5201ab947d09ec)
+> [**有道云笔记**](http://note.youdao.com/noteshare?id=81ec4cd0813ea4baba5201ab947d09ec)
 
 **推荐收藏时使用有道云笔记格式**
 
@@ -64,6 +64,6 @@
 
 ## 地理 :earth_asia:
 
-**未启动**
+**预备中**
 
 
