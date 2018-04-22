@@ -36,7 +36,11 @@
 
 ## 化学 :pill:
 
-**起稿中**
+> [**选修五**：完成度13%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E5%8C%96%E5%AD%A6/%E9%80%89%E4%BF%AE%E4%BA%94)
+
+**资源扩展中**
+
+> [有道云笔记](http://note.youdao.com/noteshare?id=7dfb0970e252baa2aee5cc7b2bce258d)
 
 ## 生物 :microscope:
 
