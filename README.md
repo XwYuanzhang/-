@@ -42,6 +42,8 @@
 
 > [有道云笔记](http://note.youdao.com/noteshare?id=7dfb0970e252baa2aee5cc7b2bce258d)
 
+**推荐收藏时使用有道云笔记格式**
+
 ## 生物 :microscope:
 
 > [**必修一**：完成度100%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E5%BF%85%E4%BF%AE%E4%B8%80)
