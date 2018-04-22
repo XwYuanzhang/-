@@ -40,7 +40,7 @@
 
 **资源扩展中**
 
-> [有道云笔记](http://note.youdao.com/noteshare?id=7dfb0970e252baa2aee5cc7b2bce258d)
+> [**有道云笔记**](http://note.youdao.com/noteshare?id=7dfb0970e252baa2aee5cc7b2bce258d)
 
 **推荐收藏时使用有道云笔记格式**
 
