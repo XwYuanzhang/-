@@ -22,6 +22,8 @@
 
 >[**高考相关**](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E8%AF%AD%E6%96%87)
 
+**资源扩展中**
+
 >[**有道云笔记**](http://note.youdao.com/noteshare?id=179b2956129a5b96a292339e3652ffb9)
 
 **推荐收藏时使用有道云笔记格式**
