@@ -16,6 +16,8 @@
 
 :pencil2:[**评论&意见区**](https://github.com/XwYuanzhang/Cloud-Note/issues)
 
+:book:[**有道云笔记 - 推荐使用该格式**](http://note.youdao.com/noteshare?id=86fac817585a6cdc55c3223970ddcd4d)
+
 </br>
 
 ## 语文 :clipboard:
