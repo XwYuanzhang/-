@@ -16,7 +16,7 @@
 
 :pencil2:[**评论&意见区**](https://github.com/XwYuanzhang/Cloud-Note/issues)
 
-:book:[**有道云笔记 - 推荐使用该格式**](http://note.youdao.com/noteshare?id=86fac817585a6cdc55c3223970ddcd4d)
+:book:[**有道云笔记 - 推荐使用该格式**](https://note.youdao.com/share/?id=e614bd4b773b1d2809b608058d714b83&type=notebook#/)
 
 </br>
 
@@ -25,10 +25,6 @@
 >[**高考相关**](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E8%AF%AD%E6%96%87)
 
 **资源扩展中**
-
->[**有道云笔记**](http://note.youdao.com/noteshare?id=179b2956129a5b96a292339e3652ffb9)
-
-**推荐收藏时使用有道云笔记格式**
 
 ## 数学 :bar_chart:
 
@@ -46,12 +42,6 @@
 
 > [**选修五**：完成度13%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E5%8C%96%E5%AD%A6/%E9%80%89%E4%BF%AE%E4%BA%94)
 
-**资源扩展中**
-
-> [**有道云笔记**](http://note.youdao.com/noteshare?id=7dfb0970e252baa2aee5cc7b2bce258d)
-
-**推荐收藏时使用有道云笔记格式**
-
 ## 生物 :microscope:
 
 > [**必修一**：完成度100%](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E5%BF%85%E4%BF%AE%E4%B8%80)
@@ -63,10 +53,6 @@
 > [**生物理论运用**](https://github.com/XwYuanzhang/Cloud-Note/tree/master/%E9%AB%98%E4%B8%AD%20%E7%94%9F%E7%89%A9/%E7%94%9F%E7%89%A9%E7%90%86%E8%AE%BA%E8%BF%90%E7%94%A8%E3%80%90%E4%BE%BF%E4%BA%8E%E5%8A%A0%E6%B7%B1%E7%90%86%E8%A7%A3%E3%80%91)
 
 **资源扩展中…**
-
-> [**有道云笔记**](http://note.youdao.com/noteshare?id=81ec4cd0813ea4baba5201ab947d09ec)
-
-**推荐收藏时使用有道云笔记格式**
 
 ## 历史 :clock4:
 
