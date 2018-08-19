@@ -11,6 +11,7 @@
 ① 与氧气反应
 
 ![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/碳与氧气的反应1.png)
+
 ![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/碳与氧气的反应2.png)
 
 ② 与金属氧化物反应（冶炼金属）
