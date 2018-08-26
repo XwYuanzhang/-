@@ -30,10 +30,11 @@
 
 ## 化学 :pill:
 
-
 >[**【重要】公式须知**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/其他/公式须知.md)
 >
 >[**6号元素 碳**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/C%20碳.md)
+>
+>[**7号元素 氮**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/N%20氮.md)
 >
 >[**14号元素 硅**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/Si%20硅.md)
 
