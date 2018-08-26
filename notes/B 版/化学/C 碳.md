@@ -63,3 +63,18 @@
 ⑤ 与镁单质的反应
 
 ![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/镁在二氧化碳中燃烧.png)
+
+## 化石燃料利用
+
+① 煤的气化（水煤气）
+
+![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/煤的气化.png)
+
+② 石油精炼
+
+**C4以下** ~ 石油气
+**C5~C11** ~ 汽油
+**C11~C16** ~ 煤油
+**C15~C18** ~ 柴油
+**C20以上** ~ 重油
+* 催化裂化与裂解，产物中都含有不饱和烃
