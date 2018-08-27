@@ -1,4 +1,4 @@
-# Si 硅
+﻿# Si 硅
 
 ---
 
@@ -10,15 +10,15 @@
 
 ① 与碱的反应
 
-![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/二氧化硅与碱.png)
+> ![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/二氧化硅与碱.png)
 
 ② 与碱性氧化物的反应
 
-![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/二氧化硅与碱性氧化物.png)
+> ![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/二氧化硅与碱性氧化物.png)
 
 ③ 与氢氟酸的反应，用于蚀刻玻璃
 
-![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/二氧化硅与氢氟酸.png)
+> ![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/二氧化硅与氢氟酸.png)
 
 ## 硅酸
 
@@ -26,7 +26,7 @@
 
 ① 硅酸的制取
 
-![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/制取硅酸.png)
+> ![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/制取硅酸.png)
 
 ## 硅酸盐
 
@@ -41,13 +41,13 @@
 
 硅单质的制取：
 
-![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/粗硅提纯第一步.png)
-
-![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/粗硅提纯第二步.png)
-
-![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/粗硅提纯第三步.png)
-
-**注：第一步下方标注的反应条件为“电炉”，且第一步得到的硅为粗硅**
+> ![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/粗硅提纯第一步.png)
+> 
+> ![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/粗硅提纯第二步.png)
+>
+> ![image](https://github.com/XwYuanzhang/Cloud-Note/blob/master/pics/Chem/Si/粗硅提纯第三步.png)
+>
+> * 第一步下方标注的反应条件为“电炉”，且第一步得到的硅为粗硅
 
 
 
