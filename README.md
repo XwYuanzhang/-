@@ -38,6 +38,8 @@
 >
 >[**14号元素 硅**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/Si%20硅.md)
 >
+>[**16号元素 硫**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/S%20硫.md)
+>
 >[**17号元素 氯**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/Cl%20氯.md)
 >
 >[**化学原理应用**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/化学原理应用.md)
