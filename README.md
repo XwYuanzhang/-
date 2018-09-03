@@ -18,7 +18,9 @@
 
 ## 数学 :bar_chart:
 
-**预备中**
+>[**【重要】公式须知**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/其他/公式须知.md)
+>
+>[**函数与方程的思想**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/数学/函数与方程的思想.md)
 
 ## 英语 :abcd:
 
