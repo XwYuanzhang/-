@@ -41,10 +41,14 @@
 >[**16号元素 硫**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/S%20硫.md)
 >
 >[**17号元素 氯**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/Cl%20氯.md)
->
->[**化学原理应用**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/化学原理应用.md)
 
-## 生物 :microscope:
+</br>
+
+>[**化学原理应用**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/化学原理应用.md)
+>
+>[**离子反应**](https://github.com/XwYuanzhang/Cloud-Note/blob/92f9b2e57232ea889c89f3bab9a4bcc3e604d992/notes/B%20版/化学/离子反应.md)
+
+## 生物 :microscope:
 
 >[**科学史**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/生物/科学史.md)
 
