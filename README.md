@@ -21,6 +21,8 @@
 >[**【重要】公式须知**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/其他/公式须知.md)
 >
 >[**函数与方程的思想**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/数学/函数与方程的思想.md)
+>
+>[**分类讨论思想**](https://github.com/XwYuanzhang/Cloud-Note/blob/09338d07ae0b2db4030c3ec2298a1809a385300e/notes/B%20版/数学/分类讨论思想.md)
 
 ## 英语 :abcd:
 
