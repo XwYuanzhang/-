@@ -56,7 +56,7 @@
 
 >[**科学史**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/生物/科学史.md)
 >
->[**实验**](https://github.com/XwYuanzhang/Cloud-Note/blob/0dfab20c9c1a5008622100a11588499b7171e085/notes/B%20版/生物/实验.md)
+>[**实验**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/生物/实验.md)
 
 ## 其他 :book:
 
