@@ -40,6 +40,8 @@
 >
 >[**7号元素 氮**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/N%20氮.md)
 >
+>[**11号元素 钠**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/Na%20钠.md)
+>
 >[**14号元素 硅**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/Si%20硅.md)
 >
 >[**16号元素 硫**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/S%20硫.md)
