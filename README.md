@@ -59,6 +59,8 @@
 >[**化学反应与能量**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/化学反应与能量.md)
 >
 >[**离子反应**](https://github.com/XwYuanzhang/Cloud-Note/blob/92f9b2e57232ea889c89f3bab9a4bcc3e604d992/notes/B%20版/化学/离子反应.md)
+>
+>[**电化学**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/电化学.md)
 
 ## 生物 :microscope:
 
