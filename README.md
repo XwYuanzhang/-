@@ -49,6 +49,8 @@
 >[**16号元素 硫**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/S%20硫.md)
 >
 >[**17号元素 氯**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/Cl%20氯.md)
+>
+>[**26号元素 铁**](https://github.com/XwYuanzhang/Cloud-Note/blob/master/notes/B%20版/化学/Fe%20铁.md)
 
 </br>
 
